@@ -1,7 +1,3 @@
-package edu.ucsd.cs110.temperature;
-
-import static org.junit.Assert.*;
-
 /**
  * Created by ihaiderx on 4/18/16.
  */
